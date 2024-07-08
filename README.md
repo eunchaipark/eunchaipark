@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=timeAuto&height=360&text=Good+day+to+study&fontSize=69&fontAlign=50&fontAlignY=50&desc=&descSize=20&descAlign=50&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=360&text=Good+day+to+study&fontSize=69&fontAlign=50&fontAlignY=50&desc=&descSize=20&descAlign=50&descAlignY=60)
 
 ## 안녕하세요 데이터 엔지니어링으로 향해가는 박은채입니다. 👋
 
