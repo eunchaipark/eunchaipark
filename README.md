@@ -25,4 +25,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=eunchaipark&theme=tokyonight&show_icons=true" width="49%" />
 </a>
 
+###  BOJ Ranking (Solved.ac)
+[![Algorithm Ranking](https://mazassumnida.wtf/api/generate_badge?boj=eunchai5781)](https://solved.ac/profile/eunchai5781)
 
