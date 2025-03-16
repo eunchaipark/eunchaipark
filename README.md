@@ -2,9 +2,9 @@
 
 ## 🚀 Introduction
 
-안녕하세요, **데이터 엔지니어링**과 **클라우드 기반 솔루션 개발**에 열정을 가지고 있는 **박은채**입니다.
+- 안녕하세요, **데이터 엔지니어링**과 **클라우드 기반 솔루션 개발**에 열정을 가지고 있는 **박은채**입니다.
 
-새로운 기술을 배우고, 도전하는 것을 좋아하며, 데이터 분석과 클라우드 컴퓨팅을 활용하여 실질적인 문제를 해결하는 데 관심이 많습니다.
+- 새로운 기술을 배우고, 도전하는 것을 좋아하며, 데이터 분석과 클라우드 컴퓨팅을 활용하여 실질적인 문제를 해결하는 데 관심이 많습니다.
 
 ### 🦾 Skills
 **🧑‍💻 Programming Languages and Frameworks**
@@ -67,7 +67,6 @@
 ## 📬 Contact Me!
 
 - **E-mail**: [eunchai5781@naver.com](mailto:eunchai5781@naver.com)
-- **GitHub**: https://github.com/eunchaipark
 - **Development Blog (Velog)**: https://velog.io/@eunchaipark/posts
 
 ## 🔗 Portfolio
