@@ -5,19 +5,31 @@
 > 안녕하세요, **백엔드 개발**과 **클라우드 기반 솔루션 개발**에 열정을 가지고 있습니다.
 > 새로운 기술을 배우고, 도전하는 것을 좋아하며, 개발과 클라우드 컴퓨팅을 활용하여 실질적인 문제를 해결하는 데 관심이 많습니다.
 
-##  Contact Me!
+<details>
+<summary>📬 Contact Me</summary>
+
+<br/>
 
 > **E-mail**: [eunchai5781@naver.com](mailto:eunchai5781@naver.com)  
-> **Development Blog (Velog)**: https://velog.io/@eunchaipark/posts
+> **Development Blog (Velog)**: https://velog.io/@eunchaipark/posts  
 
+</details>
 
-## 🔗 Portfolio
+---
+
+<details>
+<summary>🔗 Portfolio</summary>
+
+<br/>
 
 - [📝 포트폴리오 링크](https://humorous-oil-06d.notion.site/1b8460bfbba28076ba9dd370e34770ce?source=copy_link)
 
+</details>
+
+---
 
 <details>
-<summary> 🦾 Skills (클릭하면 펼쳐집니다)</summary>
+<summary>🦾 Skills (클릭하면 펼쳐집니다)</summary>
 
 <br/>
 
@@ -35,8 +47,32 @@
 
 
 
+<details>
+<summary>📊 Algorithm Ranking (클릭하면 펼쳐집니다)</summary>
 
-### BOJ Ranking (Solved.ac)
-[![Algorithm Ranking](https://mazassumnida.wtf/api/generate_badge?boj=eunchai5781)](https://solved.ac/profile/eunchai5781)
+<br/>
+
+<table>
+  <tr>
+    <td align="center"><strong>BOJ (백준)</strong></td>
+    <td align="center"><strong>Programmers (프로그래머스)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://solved.ac/profile/eunchai5781">
+        <img src="https://mazassumnida.wtf/api/generate_badge?boj=eunchai5781" alt="BOJ badge"/>
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/순위-64,890위-4B61D1?style=flat-square&logo=codeforces&logoColor=white"/>
+      <img src="https://img.shields.io/badge/점수-1,267점-6A5ACD?style=flat-square&logo=leetcode&logoColor=white"/>
+      <img src="https://img.shields.io/badge/해결-190문제-8A2BE2?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/상태-취준생_박은채-708090?style=flat-square"/>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 
 
