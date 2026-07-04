@@ -1,78 +1,26 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=240&text=Developing%20to%20make%20services%20that%20will%20improve%20our%20lives&fontSize=26&fontAlign=50&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=240&text=PERSPECTIVE+%C2%B7+RECORD+%C2%B7+GROW&fontSize=36&fontAlign=50&fontAlignY=50&fontColor=ffffff)
 
-##  Introduction
+## Introduction
 
-- 안녕하세요, **백엔드 개발**과 **클라우드 기반 솔루션 개발**에 열정을 가지고 있습니다.
-- 새로운 기술을 배우고, 도전하는 것을 좋아하며, 개발과 클라우드 컴퓨팅을 활용하여 실질적인 문제를 해결하는 데 관심이 많습니다.
+- 한계를 마주할 때마다 왜 막히는지, 어떻게 넘을 수 있는지, 더 나은 구조는 없는지를 습관처럼 고민합니다.
+- 새로운 기술이 나오면 일단 써보고 싶어집니다. RAG, LangSmith처럼 낯선 기술도 직접 프로젝트에 녹여보며 한계와 가능성을 확인해왔습니다.
+- 매일 커밋을 이어가고 기술 블로그에 배운 것을 남깁니다. 기록이 다음 프로젝트의 출발점이 됩니다.
 
-<details>
-<summary>📬 Contact Me</summary>
+---
 
-<br/>
+## 📬 Contact
 
 > **E-mail**: [eunchai5781@naver.com](mailto:eunchai5781@naver.com)  
 > **Development Blog (Velog)**: https://velog.io/@eunchaipark/posts  
-
-</details>
-
----
-
-<details>
-<summary>🔗 Portfolio</summary>
-
-<br/>
-
-- [📝 포트폴리오 링크](https://humorous-oil-06d.notion.site/1b8460bfbba28076ba9dd370e34770ce?source=copy_link)
-
-</details>
+> **Portfolio**: [📝 포트폴리오 링크](https://humorous-oil-06d.notion.site/1b8460bfbba28076ba9dd370e34770ce?source=copy_link)
 
 ---
 
-<details>
-<summary>🦾 Skills (클릭하면 펼쳐집니다)</summary>
-
-<br/>
+## 🛠 Skills
 
 | 구분 | 스킬/도구 |
 | --- | --- |
-|  **프로그래밍 언어** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> |
-|  **웹 프레임워크 & API** | <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Django Rest Framework-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/> |
-| **데이터베이스 & 검색엔진** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/> <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white"/> |
-| **데이터 처리 & 분석** | <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white"/> |
-| **머신러닝 & 딥러닝** | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/Machine Learning-01D277?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Deep Learning-005571?style=flat-square&logo=python&logoColor=white"/> |
-| **데이터 파이프라인 & 배포** | <img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=flat-square&logo=Apache Airflow&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> |
-| **프론트엔드 & 웹 기술** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> |
-
-</details>
-
-
-
-<details>
-<summary>📊 Algorithm Ranking (클릭하면 펼쳐집니다)</summary>
-
-<br/>
-
-<table>
-  <tr>
-    <td align="center"><strong>BOJ (백준)</strong></td>
-    <td align="center"><strong>Programmers (프로그래머스)</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://solved.ac/profile/eunchai5781">
-        <img src="https://mazassumnida.wtf/api/generate_badge?boj=eunchai5781" alt="BOJ badge"/>
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/순위-64,890위-4B61D1?style=flat-square&logo=codeforces&logoColor=white"/>
-      <img src="https://img.shields.io/badge/점수-1,267점-6A5ACD?style=flat-square&logo=leetcode&logoColor=white"/>
-      <img src="https://img.shields.io/badge/해결-190문제-8A2BE2?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/상태-취준생_박은채-708090?style=flat-square"/>
-    </td>
-  </tr>
-</table>
-
-</details>
-
-
-
+| **Backend** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/> |
+| **Frontend** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> |
+| **Database & AI** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white"/> <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/RAG-FF6B6B?style=flat-square&logo=python&logoColor=white"/> |
+| **DevOps & Tools** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/> <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/> <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> |
