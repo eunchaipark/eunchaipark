@@ -12,7 +12,7 @@
 
 > **E-mail**: [eunchai5781@naver.com](mailto:eunchai5781@naver.com)  
 > **Development Blog (Velog)**: https://velog.io/@eunchaipark/posts  
-> **Portfolio**: [📝 포트폴리오 링크](https://humorous-oil-06d.notion.site/1b8460bfbba28076ba9dd370e34770ce?source=copy_link)
+> **Portfolio**: [📝 포트폴리오 링크](https://www.notion.so/Developer-391460bfbba2804f99e1ce52624ceade?source=copy_link)
 
 ---
 
