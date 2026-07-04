@@ -18,6 +18,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://api.velog.io/rss/@eunchaipark"
-          max_post_count: 5
+          max_post_count: 3
           readme_path: "./README.md"
           comment_tag_name: "BLOG-POST-LIST"
