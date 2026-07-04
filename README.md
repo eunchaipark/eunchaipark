@@ -8,10 +8,18 @@
 
 ---
 
+## ✍️ Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+👉 [velog.io/@eunchaipark](https://velog.io/@eunchaipark/posts)
+
+---
+
 ## 📬 Contact
 
 > **E-mail**: [eunchai5781@naver.com](mailto:eunchai5781@naver.com)  
-> **Development Blog (Velog)**: https://velog.io/@eunchaipark/posts  
 > **Portfolio**: [📝 포트폴리오 링크](https://www.notion.so/Developer-391460bfbba2804f99e1ce52624ceade?source=copy_link)
 
 ---
