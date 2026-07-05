@@ -11,9 +11,9 @@
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TheMoon](https://velog.io/@eunchaipark/TheMoon)
 - [The Moon을 하며...Agent RAG](https://velog.io/@eunchaipark/The-Moon%EC%9D%84-%ED%95%98%EB%A9%B0...Agent-RAG)
 - [Nunchi를 하면서... RAG란?](https://velog.io/@eunchaipark/Nunchi%EB%A5%BC-%ED%95%98%EB%A9%B4%EC%84%9C)
-- [Nunchi](https://velog.io/@eunchaipark/Nunchi)
 <!-- BLOG-POST-LIST:END -->
 
 👉 [velog.io/@eunchaipark](https://velog.io/@eunchaipark/posts)
